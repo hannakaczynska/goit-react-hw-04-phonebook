@@ -1,0 +1,16 @@
+.contactList {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.contact {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.contactButton {
+    background-color: coral;
+    border-radius: 4px;
+}
